@@ -8,7 +8,7 @@ Specialization contains following courses:
 2. [Python Data Structures][2]
 3. [Using python to Access Web Data][3]
 4. [Using Databases with Python][4]
-5. Capstone: Retrieving Processing and Visualizing Data with Python
+5. [Capstone: Retrieving Processing and Visualizing Data with Python][5]
 
 [1]: https://github.com/theshivanjali/Python-For-Everybody-Specialization/tree/master/Course-1-Getting-Started-With-Python
 
