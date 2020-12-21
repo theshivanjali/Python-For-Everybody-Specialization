@@ -13,6 +13,9 @@ Specialization contains following courses:
 [1]: https://github.com/theshivanjali/Python-For-Everybody-Specialization/tree/master/Course-1-Getting-Started-With-Python
 
 [2]: https://github.com/theshivanjali/Python-For-Everybody-Specialization/tree/master/Course-2-Python-Data-Structures
+x-special/nautilus-clipboard
+copy
+file:///home/shivanjali/Documents/Shivanjali/Python-For-Everybody-Specialization/Course-5-Capstone-Retrieving-Processing-and-Visualizing-Data-with-Python/gmane/gline.py
 
 [3]: https://github.com/theshivanjali/Python-For-Everybody-Specialization/tree/master/Course-3-Using-Pyhton-To-Access-Web-Data
 
